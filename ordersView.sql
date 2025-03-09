@@ -1,0 +1,1 @@
+CREATE VIEW `OrdersView` AS select OrderID, Quantity, TotalCost from orders
